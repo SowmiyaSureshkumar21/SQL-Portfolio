@@ -25,7 +25,9 @@ LeetCode/
     ├── 007_Employee_Bonus.sql
     ├── 008_Find_Customer_Referee.sql
     ├── 009_Customer_Placing_The_Largest_Number_Of_Orders.sql
-    └── 010_Big_Countries.sql
+    ├── 010_Big_Countries.sql
+    ├── 011_Classes_With_At_Least_5_Students.sql
+    └── 012_Sales_Person.sql
 ```
 
 ## Problems Solved
@@ -56,7 +58,7 @@ LeetCode/
 | 020 | Pharmacy Analytics Part 3       |
 | 021 | Patient Support Analysis Part 1 |
 
-### LeetCode - Easy (10 Problems)
+### LeetCode - Easy (12 Problems)
 
 | #   | Problem                                       |
 | --- | --------------------------------------------- |
@@ -70,6 +72,8 @@ LeetCode/
 | 008 | Find Customer Referee                         |
 | 009 | Customer Placing the Largest Number of Orders |
 | 010 | Big Countries                                 |
+| 011 | Classes With At Least 5 Students              |
+| 012 | Sales Person                                  |
 
 ## SQL Skills Demonstrated
 
@@ -79,6 +83,7 @@ LeetCode/
 * Joins (INNER JOIN, LEFT JOIN, SELF JOIN)
 * Subqueries
 * Correlated Subqueries
+* EXISTS and NOT EXISTS
 * Common Table Expressions (CTEs)
 * Window Functions (ROW_NUMBER, RANK, LAG)
 * Conditional Logic (CASE WHEN)
@@ -103,11 +108,11 @@ LeetCode/
 
 ## Progress
 
-* Total SQL Problems Solved: **31**
+* Total SQL Problems Solved: **33**
 * DataLemur Problems: **21**
-* LeetCode Problems: **10**
+* LeetCode Problems: **12**
 * Difficulty Completed: **Easy**
-* Currently Working On: **More LeetCode Easy Problems and Medium SQL Challenges**
+* Currently Working On: **LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges**
 
 ## About Me
 
