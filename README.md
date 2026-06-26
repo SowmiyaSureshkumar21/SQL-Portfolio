@@ -27,7 +27,15 @@ LeetCode/
     ├── 009_Customer_Placing_The_Largest_Number_Of_Orders.sql
     ├── 010_Big_Countries.sql
     ├── 011_Classes_With_At_Least_5_Students.sql
-    └── 012_Sales_Person.sql
+    ├── 012_Sales_Person.sql
+    ├── 013_Triangle_Judgement.sql
+    ├── 014_Biggest_Single_Number.sql
+    ├── 015_Not_Boring_Movies.sql
+    ├── 016_Swap_Sex_of_Employees.sql
+    ├── 017_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql
+    ├── 018_Product_Sales_Analysis_I.sql
+    ├── 019_Project_Employees_I.sql
+    └── 020_User_Activity_for_the_Past_30_Days_I.sql
 ```
 
 ## Problems Solved
@@ -58,22 +66,30 @@ LeetCode/
 | 020 | Pharmacy Analytics Part 3       |
 | 021 | Patient Support Analysis Part 1 |
 
-### LeetCode - Easy (12 Problems)
+### LeetCode - Easy (20 Problems)
 
-| #   | Problem                                       |
-| --- | --------------------------------------------- |
-| 001 | Combine Two Tables                            |
-| 002 | Duplicate Emails                              |
-| 003 | Customers Who Never Order                     |
-| 004 | Delete Duplicate Emails                       |
-| 005 | Rising Temperature                            |
-| 006 | Game Play Analysis I                          |
-| 007 | Employee Bonus                                |
-| 008 | Find Customer Referee                         |
-| 009 | Customer Placing the Largest Number of Orders |
-| 010 | Big Countries                                 |
-| 011 | Classes With At Least 5 Students              |
-| 012 | Sales Person                                  |
+| #   | Problem                                                  |
+| --- | -------------------------------------------------------- |
+| 001 | Combine Two Tables                                       |
+| 002 | Duplicate Emails                                         |
+| 003 | Customers Who Never Order                                |
+| 004 | Delete Duplicate Emails                                  |
+| 005 | Rising Temperature                                       |
+| 006 | Game Play Analysis I                                     |
+| 007 | Employee Bonus                                           |
+| 008 | Find Customer Referee                                    |
+| 009 | Customer Placing the Largest Number of Orders            |
+| 010 | Big Countries                                            |
+| 011 | Classes With At Least 5 Students                         |
+| 012 | Sales Person                                             |
+| 013 | Triangle Judgement                                       |
+| 014 | Biggest Single Number                                    |
+| 015 | Not Boring Movies                                        |
+| 016 | Swap Sex of Employees                                    |
+| 017 | Actors and Directors Who Cooperated At Least Three Times |
+| 018 | Product Sales Analysis I                                 |
+| 019 | Project Employees I                                      |
+| 020 | User Activity for the Past 30 Days I                     |
 
 ## SQL Skills Demonstrated
 
@@ -108,14 +124,18 @@ LeetCode/
 
 ## Progress
 
-* Total SQL Problems Solved: **33**
-* DataLemur Problems: **21**
-* LeetCode Problems: **12**
-* Difficulty Completed: **Easy**
-* Currently Working On: **LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges**
+* **Total SQL Problems Solved:** 41
+* **DataLemur Problems:** 21
+* **LeetCode Problems:** 20
+* **Difficulty Completed:** Easy
+* **Currently Working On:** LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges
 
 ## About Me
 
-I have 5 years of experience working with data in the healthcare domain. I am currently strengthening my skills in SQL, Excel, Python, Data Analytics and AI-powered analytics through hands-on projects and problem solving.
+I have 5 years of experience working with data in the healthcare domain. I am currently strengthening my skills in SQL, Excel, Python, Data Analytics, and AI-powered analytics through hands-on projects and problem solving.
 
 More solutions and projects will be added as I continue my learning journey.
+
+---
+
+⭐ Thank you for visiting my SQL Portfolio! Feedback and suggestions are always welcome.
