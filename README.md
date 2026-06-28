@@ -35,7 +35,11 @@ LeetCode/
     ├── 017_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql
     ├── 018_Product_Sales_Analysis_I.sql
     ├── 019_Project_Employees_I.sql
-    └── 020_User_Activity_for_the_Past_30_Days_I.sql
+    ├── 020_User_Activity_for_the_Past_30_Days_I.sql
+    ├── 021_Sales_Analysis_III.sql
+    ├── 022_Article_Views_I.sql
+    ├── 023_Reformat_Department_Table.sql
+    └── 024_Queries_Quality_and_Percentage.sql
 ```
 
 ## Problems Solved
@@ -66,7 +70,7 @@ LeetCode/
 | 020 | Pharmacy Analytics Part 3       |
 | 021 | Patient Support Analysis Part 1 |
 
-### LeetCode - Easy (20 Problems)
+### LeetCode - Easy (24 Problems)
 
 | #   | Problem                                                  |
 | --- | -------------------------------------------------------- |
@@ -90,6 +94,10 @@ LeetCode/
 | 018 | Product Sales Analysis I                                 |
 | 019 | Project Employees I                                      |
 | 020 | User Activity for the Past 30 Days I                     |
+| 021 | Sales Analysis III                                       |
+| 022 | Article Views I                                          |
+| 023 | Reformat Department Table                                |
+| 024 | Queries Quality and Percentage                           |
 
 ## SQL Skills Demonstrated
 
@@ -124,9 +132,9 @@ LeetCode/
 
 ## Progress
 
-* **Total SQL Problems Solved:** 41
+* **Total SQL Problems Solved:** 45
 * **DataLemur Problems:** 21
-* **LeetCode Problems:** 20
+* **LeetCode Problems:** 24
 * **Difficulty Completed:** Easy
 * **Currently Working On:** LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges
 
