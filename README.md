@@ -6,7 +6,6 @@ This repository contains my SQL solutions from DataLemur, LeetCode and other SQL
 
 ## Repository Structure
 
-```text
 DataLemur/
 └── Easy/
     ├── 001_Histogram_of_Tweets.sql
@@ -39,8 +38,12 @@ LeetCode/
     ├── 021_Sales_Analysis_III.sql
     ├── 022_Article_Views_I.sql
     ├── 023_Reformat_Department_Table.sql
-    └── 024_Queries_Quality_and_Percentage.sql
-```
+    ├── 024_Queries_Quality_and_Percentage.sql
+    ├── 025_Average_Selling_Price.sql
+    ├── 026_Students_and_Examinations.sql
+    ├── 027_Find_Valid_Emails.sql
+    └── 028_List_the_Products_Ordered_in_a_Period.sql
+
 
 ## Problems Solved
 
@@ -70,7 +73,7 @@ LeetCode/
 | 020 | Pharmacy Analytics Part 3       |
 | 021 | Patient Support Analysis Part 1 |
 
-### LeetCode - Easy (24 Problems)
+### LeetCode - Easy (28 Problems)
 
 | #   | Problem                                                  |
 | --- | -------------------------------------------------------- |
@@ -98,13 +101,17 @@ LeetCode/
 | 022 | Article Views I                                          |
 | 023 | Reformat Department Table                                |
 | 024 | Queries Quality and Percentage                           |
+| 025 | Average Selling Price                                    |
+| 026 | Students and Examinations                                |
+| 027 | Find Valid Emails                                        |
+| 028 | List the Products Ordered in a Period                    |
 
 ## SQL Skills Demonstrated
 
 * Filtering and Sorting
 * Aggregate Functions
 * GROUP BY and HAVING
-* Joins (INNER JOIN, LEFT JOIN, SELF JOIN)
+* Joins (INNER JOIN, LEFT JOIN, SELF JOIN, CROSS JOIN)
 * Subqueries
 * Correlated Subqueries
 * EXISTS and NOT EXISTS
@@ -113,6 +120,7 @@ LeetCode/
 * Conditional Logic (CASE WHEN)
 * Date Functions
 * String Functions
+* Regular Expressions (REGEXP)
 * Data Aggregation
 * NULL Handling
 * Data Cleaning and Deduplication
@@ -132,9 +140,9 @@ LeetCode/
 
 ## Progress
 
-* **Total SQL Problems Solved:** 45
+* **Total SQL Problems Solved:** 49
 * **DataLemur Problems:** 21
-* **LeetCode Problems:** 24
+* **LeetCode Problems:** 28
 * **Difficulty Completed:** Easy
 * **Currently Working On:** LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges
 
