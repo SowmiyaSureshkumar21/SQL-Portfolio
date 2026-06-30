@@ -42,8 +42,9 @@ LeetCode/
     ├── 025_Average_Selling_Price.sql
     ├── 026_Students_and_Examinations.sql
     ├── 027_Find_Valid_Emails.sql
-    └── 028_List_the_Products_Ordered_in_a_Period.sql
-
+    ├── 028_List_the_Products_Ordered_in_a_Period.sql
+    ├── 029_Replace_Employee_ID_With_The_Unique_Identifier.sql
+    └── 030_Top_Travellers.sql
 
 ## Problems Solved
 
@@ -73,7 +74,7 @@ LeetCode/
 | 020 | Pharmacy Analytics Part 3       |
 | 021 | Patient Support Analysis Part 1 |
 
-### LeetCode - Easy (28 Problems)
+### LeetCode - Easy (30 Problems)
 
 | #   | Problem                                                  |
 | --- | -------------------------------------------------------- |
@@ -105,46 +106,48 @@ LeetCode/
 | 026 | Students and Examinations                                |
 | 027 | Find Valid Emails                                        |
 | 028 | List the Products Ordered in a Period                    |
+| 029 | Replace Employee ID With The Unique Identifier           |
+| 030 | Top Travellers                                           |
 
 ## SQL Skills Demonstrated
 
-* Filtering and Sorting
-* Aggregate Functions
-* GROUP BY and HAVING
-* Joins (INNER JOIN, LEFT JOIN, SELF JOIN, CROSS JOIN)
-* Subqueries
-* Correlated Subqueries
-* EXISTS and NOT EXISTS
-* Common Table Expressions (CTEs)
-* Window Functions (ROW_NUMBER, RANK, LAG)
-* Conditional Logic (CASE WHEN)
-* Date Functions
-* String Functions
-* Regular Expressions (REGEXP)
-* Data Aggregation
-* NULL Handling
-* Data Cleaning and Deduplication
-* Business Metrics and KPI Analysis
-* Profit and Loss Analysis
-* Reporting Queries
+- Filtering and Sorting
+- Aggregate Functions
+- GROUP BY and HAVING
+- Joins (INNER JOIN, LEFT JOIN, SELF JOIN, CROSS JOIN)
+- Subqueries
+- Correlated Subqueries
+- EXISTS and NOT EXISTS
+- Common Table Expressions (CTEs)
+- Window Functions (ROW_NUMBER, RANK, LAG)
+- Conditional Logic (CASE WHEN)
+- Date Functions
+- String Functions
+- Regular Expressions (REGEXP)
+- Data Aggregation
+- NULL Handling
+- Data Cleaning and Deduplication
+- Business Metrics and KPI Analysis
+- Profit and Loss Analysis
+- Reporting Queries
 
 ## Tools
 
-* SQL
-* MySQL
-* DataLemur
-* LeetCode
-* Git
-* GitHub
-* Visual Studio Code
+- SQL
+- MySQL
+- DataLemur
+- LeetCode
+- Git
+- GitHub
+- Visual Studio Code
 
 ## Progress
 
-* **Total SQL Problems Solved:** 49
-* **DataLemur Problems:** 21
-* **LeetCode Problems:** 28
-* **Difficulty Completed:** Easy
-* **Currently Working On:** LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges
+- **Total SQL Problems Solved:** 51
+- **DataLemur Problems:** 21
+- **LeetCode Problems:** 30
+- **Difficulty Completed:** Easy
+- **Currently Working On:** LeetCode Easy SQL Problems and Preparing for Medium-Level SQL Challenges
 
 ## About Me
 
